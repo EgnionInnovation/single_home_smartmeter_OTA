@@ -50,7 +50,7 @@ String mqtt_host_ip = "", device_key = "", meter_name = "", hardware_version = "
 String in_topic, out_topic;
 
 // OTA parameters ---------------------------------------------------------------------------------
-String FirmwareVer = {"3.03"};
+String FirmwareVer = {"3.04"};
 #define URL_fw_Version "https://raw.githubusercontent.com/EgnionInnovation/single_home_smartmeter_OTA/main/firmware_version.txt"
 #define URL_fw_Bin "https://raw.githubusercontent.com/EgnionInnovation/single_home_smartmeter_OTA/main/fw/firmware.bin"
 void firmwareUpdate();
