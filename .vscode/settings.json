@@ -1,3 +1,4 @@
 {
-    "idf.port": "/dev/tty.usbmodem1401"
+    "idf.port": "/dev/tty.usbmodem1401",
+    "cmake.sourceDirectory": "C:/Users/HP-abdullah/Documents/PlatformIO/Projects/SMART_METER 6/SMART_METER/lib/ESP_Async_WebServer"
 }

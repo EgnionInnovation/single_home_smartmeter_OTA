@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "SMART_METER",
+			"path": ".."
 		}
 	],
 	"settings": {}
